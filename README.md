@@ -6,7 +6,7 @@ You can take Backup of Your Wordpress Website To Windows Azure Storage. In which
 How to use: 
 Step 1: install this plugin like any other plugin of wordpress or u can use FTP to upload it directly to plugins folder of your web directory.  
 Step 2:After Activating the plugin you will find a “Backup To Azure” tab on the left side menu on the dashboard.  
-Step 3:On that tab you need to enter your wordpress credentials (we are not storing them in they are just transferred from one page to another by HTML POST method ). 
+Step 3:On that tab you need to enter your wordpress credentials (we are not storing your credentials , they are just transferred from one page to another by HTML POST method ). 
 Step 4: Once your credential are verified you can see the logs of your previous backup. You may choose to delete any or all of them.   
 Step 5:On clicking “Start New Backup” the backup schedule will start running it will first take database backup and then content backup.  
 
