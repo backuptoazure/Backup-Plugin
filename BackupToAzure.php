@@ -4,7 +4,7 @@
 * Plugin URI: http://about.me/backuptoazure
 * Description: You can take backup of your Wordpress website to Windows Azure
 * Version: 1.0
-* Author: Gaurav Mantri
+* Author: Backup To Azure Team
 * Author URI: http://about.me/backuptoazure
 * License: GPL2
 * Slug: backuptoazure
